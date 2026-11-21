@@ -1,0 +1,6 @@
+{
+  "name": "Sofistec - Servicios Profesionales",
+  "description": "Firma especializada en asesoría fiscal, soluciones tecnológicas y administración inmobiliaria en la Ciudad de México.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
